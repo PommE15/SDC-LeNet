@@ -1,7 +1,10 @@
 # SDC-LeNet
-Implement the LeNet-5 neural network architecture
 
-Reference: https://github.com/udacity/CarND-LeNet-Lab/blob/master/LeNet-Lab.ipynb
+## Instruction
+https://github.com/udacity/CarND-LeNet-Lab/blob/master/LeNet-Lab.ipynb
+
+## Implementation
+Implement the LeNet-5 neural network architecture
 
 ## Result
 ### Train the Model

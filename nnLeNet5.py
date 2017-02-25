@@ -58,7 +58,6 @@ def LeNet(x):
     # TODO: Activation.
     fc3 = fullyConnected(conv2, weights['wf3'], biases['bf3']) 
     
-
     # TODO: Layer 4: Fully Connected. Input = 120. Output = 84.
     # TODO: Activation.
     fc4 = fullyConnected(fc3, weights['wf4'], biases['bf4']) 
